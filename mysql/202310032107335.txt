@@ -1,0 +1,15 @@
+1、什么是DAO模式？
+2、hashmap实现的数据结构是什么？如何实现的？
+3、StringBuffer跟StringBuilder区别？
+4、hashMap的底层数据结构是什么？hashMap会不会有hash碰撞，如果有怎么解决这种情况？
+5、怎么解决hashMap线程安全问题？
+6、谈谈你对jvm的了解？jvm类运行的顺序？
+7、springboot自动配置的注解是哪个？说说springboot跟ssm的区别 
+8、springcloud用了哪些组件？
+9、ioc和aop  redis分布式锁  Redis的数据结构有哪些？Redis怎么跟数据库保持一致性 ？
+1、RabbitMQ的消息发送方式有几种？ 怎么保证RabbitMQ消息可靠性？
+2、分库分表的方式有哪些？
+3、项目中哪些地方用到了索引，什么情况会用到索引？
+4、项目中你是如何使用分布式事务的？
+5、数据库优化你都做过哪些？Sql语句怎么优化
+6、Spring mvc的整合
